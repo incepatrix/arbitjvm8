@@ -1,5 +1,6 @@
 package DataStore;
 
+import Data.IData;
 import Exceptions.MMTProDBException;
 
 public interface IDBConnection<T> {
